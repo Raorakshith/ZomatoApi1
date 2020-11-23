@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "779595787291",
+    "firebase_url": "https://fir-bc635.firebaseio.com",
+    "project_id": "fir-bc635",
+    "storage_bucket": "fir-bc635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779595787291:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdcbGPQemW8WjkearfyrAGh41aABh0u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779595787291:android:edc4f5e81b1f2f0a6c1cbe",
+        "android_client_info": {
+          "package_name": "com.example.zomatoapi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779595787291-plvuistkk8v276er6vlccicfiq2pmja1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zomatoapi1",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdcbGPQemW8WjkearfyrAGh41aABh0u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
